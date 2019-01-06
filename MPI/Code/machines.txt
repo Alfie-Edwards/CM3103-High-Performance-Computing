@@ -1,0 +1,16 @@
+fluorine.cs.cf.ac.uk
+neon.cs.cf.ac.uk
+sodium.cs.cf.ac.uk
+magnesium.cs.cf.ac.uk
+aluminium.cs.cf.ac.uk
+silicon.cs.cf.ac.uk
+phosphorus.cs.cf.ac.uk
+sulfur.cs.cf.ac.uk
+chlorine.cs.cf.ac.uk
+argon.cs.cf.ac.uk
+potassium.cs.cf.ac.uk
+calcium.cs.cf.ac.uk
+scandium.cs.cf.ac.uk
+titanium.cs.cf.ac.uk
+vanadium.cs.cf.ac.uk
+chromium.cs.cf.ac.uk
